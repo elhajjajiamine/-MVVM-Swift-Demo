@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A55B792E-0EB9-4846-86EE-59A176242CB0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3337DD35-62C4-4644-B220-F73FFF4251BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../MVVM/MVVM_Swift_Demo/MVVM_Swift_Demo/Networking/Request/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "performRequest(route:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14ABC4E9-130C-4AA3-82EF-90F98D7C8F3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../MVVM/MVVM_Swift_Demo/MVVM_Swift_Demo/Networking/Routers/APIRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "asURLRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F6D783C-A420-4606-8964-C21083B9A78D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_Swift_Demo/Networking/Request/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "performRequest(route:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7F6D783C-A420-4606-8964-C21083B9A78D - 45b4193e0051efcc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM_Swift_Demo.APIClient.performRequest&lt;A where A: Swift.Decodable&gt;(route: MVVM_Swift_Demo.APIRouter, completionHandler: (Alamofire.DataResponse&lt;A&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVM_Swift_Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usmanzafar/Usman/MVVM%20Demo/MVVM_Swift_Demo/Networking/Request/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "7F6D783C-A420-4606-8964-C21083B9A78D - 5416c3ec8422b26f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;A&gt;) -&gt; () in MVVM_Swift_Demo.APIClient.performRequest&lt;A where A: Swift.Decodable&gt;(route: MVVM_Swift_Demo.APIRouter, completionHandler: (Alamofire.DataResponse&lt;A&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVM_Swift_Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usmanzafar/Usman/MVVM%20Demo/MVVM_Swift_Demo/Networking/Request/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FD172A2-FB04-40B5-890B-B7530D87B11C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_Swift_Demo/Networking/Request/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "performRequest(route:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
